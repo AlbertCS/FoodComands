@@ -1,0 +1,5 @@
+#Type;Id;Name;Price;Discount;Celica;Lactose;DriedFruits
+DISH;1;Amanida;10.0;10.0;true;true;false
+DISH;2;Bistec;20.0;10.0;false;false;false
+DRINK;3;Cocacola;2.5;5.0;250.0;false
+DRINK;4;Vi;4.0;5.0;1000.0;true

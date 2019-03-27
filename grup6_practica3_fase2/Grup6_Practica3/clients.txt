@@ -1,0 +1,5 @@
+#Id;name;address;username;password;phone_number;celiac;lactose;driedFruits
+1;Marc;C/SN;marc;qwerty;+34678904567;false;false;false
+2;Aleix;C/SN;aleix;qwerty;+34678904567;true;false;false
+3;Bernat;C/SN;bernat;qwerty;+34678904567;true;true;false
+4;Albert;C/SN;albert;qwerty;+34678904567;true;true;true
